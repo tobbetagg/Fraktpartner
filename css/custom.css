@@ -1,0 +1,34 @@
+.container{
+    width: 100%;
+    height: 100%;
+    
+}
+
+.jumboh1{
+    
+    margin-left: 5%;
+}
+
+.btn{
+    
+    margin-left: 5%;
+}
+
+.nav {
+    
+    margin-left: 5%;
+    background-color: #EEEEEE;
+}
+
+.justforcolor{
+    
+    background-color: #EEEEEE;                                          
+}
+
+
+
+.center-block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
